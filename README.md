@@ -1,5 +1,6 @@
 # together_coding
-모각코(2023. 11. 14~)
+아침 모각코(2023. 11. 14 ~ ing)
+  
 
 ## 참여자
 - Ellie(https://github.com/elliekoooo)
