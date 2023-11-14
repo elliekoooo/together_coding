@@ -9,10 +9,19 @@
 yyyy/mm
 
 ## 파일명
-yyyy_mmdd_hhhh(연_월일_공부한시간)
+yyyy_mmdd_hhhh.md(연_월일_공부한시간.md)
 
 ## 파일형식
-Markdown
+Markdown 
+
+
+| Plan 	| OX 	| Note 	|
+|------	|----	|------	|
+|      	|    	|      	|
+|      	|    	|      	|
+|      	|    	|      	|
+|      	|    	|      	|
+|      	|    	|      	|
 
 ## 주제
 자유주제
