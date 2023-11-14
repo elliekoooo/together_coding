@@ -2,8 +2,8 @@
 모각코(2023. 11. 14~)
 
 ## 참여자
-Ellie(https://github.com/elliekoooo)
-Bang(https://github.com/Bang04)
+- Ellie(https://github.com/elliekoooo)
+- Bang(https://github.com/Bang04)
 
 ## 구조
 yyyy/mm
